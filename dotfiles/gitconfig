@@ -1,0 +1,18 @@
+[user]
+	name = Zach Taylor
+	email = zachtylr04@gmail.com
+[alias]
+	cm = commit -m
+	s = status
+	k = checkout
+	kb = checkout -b
+	b = branch
+	m = merge
+	ps = push
+	psuo = push --set-upstream origin
+	pl = pull
+	a = add --all
+	df = diff
+[core]
+	excludesfile = ~/.gitignore_global
+
