@@ -99,3 +99,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias lf="ls -alF"
 alias python='/usr/bin/python3'
+alias storage='df -Bm'
